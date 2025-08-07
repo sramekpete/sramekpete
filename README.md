@@ -1,6 +1,6 @@
 # Hi, I'm Pete Sramek 👋
 
-**Software Consultant | Software Architect | Performance & Security Enthusiast | DevOps Advocate | Agile Practitioner**
+**Software Consultant | Software Engineer | Performance & Security Enthusiast | DevOps Advocate | Agile Practitioner**
 
 ---
 
