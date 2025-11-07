@@ -1,6 +1,6 @@
 # Hi, I'm Pete Sramek 👋
 
-**Software Consultant | Software Engineer | Performance & Security Enthusiast | DevOps Advocate | Agile Practitioner**
+**Software Engineer | Performance & Security Enthusiast | DevOps Advocate | Agile Practitioner**
 
 ---
 
@@ -63,7 +63,9 @@ C#, PowerShell, Visual Studio, .NET, ASP.NET Core, .NET MAUI, Entity Framework C
 ---
 
 <sub>
+  
 ¹ DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).
 
 ² Microsoft Technology Stack: C#, PowerShell, Visual Studio, .NET, ASP.NET Core, .NET MAUI, Entity Framework Core, Microsoft Orleans, SQL Server, Microsoft Azure, Azure DevOps, GitHub, and related tools.
+
 </sub>
