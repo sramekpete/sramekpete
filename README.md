@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- **20 years of experience** as a software consultant, specializing in:
+- **20 years of experience** as a software engineer, specializing in:
   - **Software Architecture**
   - **Performance Optimization**
   - **Application & Data Security**
