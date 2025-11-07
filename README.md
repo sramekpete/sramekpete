@@ -62,10 +62,10 @@ C#, PowerShell, Visual Studio, .NET, ASP.NET Core, .NET MAUI, Entity Framework C
 
 ---
 
-<sub>
-  
+<sub>  
 ¹ DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).
-
+</sub>
+<br />
+<sub>
 ² Microsoft Technology Stack: C#, PowerShell, Visual Studio, .NET, ASP.NET Core, .NET MAUI, Entity Framework Core, Microsoft Orleans, SQL Server, Microsoft Azure, Azure DevOps, GitHub, and related tools.
-
 </sub>
